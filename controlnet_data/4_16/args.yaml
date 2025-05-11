@@ -1,0 +1,12 @@
+bias: 0
+cond_lr: 0.0001
+cond_steps: 100
+ddim_eta: 0
+ddim_steps: 200
+guide_scale: 10
+n_prompt: 2d, low quality, ugly
+prompt: shadow, 3d render, high quality, monochromatic, illusion
+scale_control: 1.5
+step_schedule:
+- 0
+- 60
